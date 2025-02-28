@@ -34,7 +34,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="440" src="https://lottie.host/5b0d55aa-ff30-453e-83e6-fc6608c6bd49/VtHN3QmWIa.lottie">
+  <img align="center" alt="Coding" width="200" src="https://github.com/pamaljayasinghe/pamaljayasinghe/blob/afd60f9e98291000105630f6520134b8960ae9e9/Animation%20-%201740730162382.gif">
 </td>
 </tr>
 </table>

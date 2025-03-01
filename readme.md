@@ -6,7 +6,7 @@
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4000&pause=1000&lines=Welcome+to+my+Profile!+👋;I'm+Pamal+Jayasinghe!;Full-stack+Developer+%26+ML+Enthusiast!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4000&pause=1000&lines=Welcome+to+my+Profile!+👋;I'm+Pamal+Jayasinghe!;Full-stack+Developer;" />
 </h1>
 
 <h3 align="center">Passionate Developer & Innovator from Sri Lanka 🚀</h3>

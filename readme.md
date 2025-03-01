@@ -26,10 +26,6 @@
 
 - 💼 Freelance Developer with 50+ successful projects
 
-- 🚀 Building innovative solutions with Spring Boot & React
-
-- 🌟 Professional Certificate in Machine Learning (84%)
-
 - 💬 Ask me about **Web Development, ML, or Design**
 
 </td>

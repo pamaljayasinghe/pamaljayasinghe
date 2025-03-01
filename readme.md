@@ -49,12 +49,12 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pamaljayasinghe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pamaljayasinghe&show_icons=true&theme=algolia" alt="GitHub Stats" />
   <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamaljayasinghe&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamaljayasinghe&theme=algolia" alt="GitHub Streak" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamaljayasinghe&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamaljayasinghe&layout=compact&theme=algolia" alt="Top Languages" />
 </td>
 </tr>
 </table>

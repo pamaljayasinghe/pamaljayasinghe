@@ -82,14 +82,7 @@
     🚀 Active IEEE & Computer Society Member
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">☕ Support My Work</h3>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/pamaljayasinghe" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-    </a>
-</p>
 
 <!--
 -- Created with 💻 by Pamal Jayasinghe
